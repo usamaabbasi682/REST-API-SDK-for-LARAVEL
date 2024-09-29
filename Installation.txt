@@ -1,4 +1,5 @@
 Package Installation Process :
+composer require paypal/paypal-checkout-sdk
 
 1)set-up your sandbox account in Paypal and have client id and secrete keys.
 2)Paypal Checkout SDK installation
